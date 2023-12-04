@@ -2,7 +2,7 @@ Hi there 👋
 
 
 
-- 🔭 I’m currently working on Waterflow Technology
+- 🔭 I’m currently working at Waterflow Technology
 
 
 
