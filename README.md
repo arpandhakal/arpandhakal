@@ -2,8 +2,8 @@ Hi there 👋
 
 
 
-- 🔭 I’m currently working at [Waterflow Technology](https://waterflow.technology/)
-- 👯 I’m interested in **Web Developement**
+- 🔭 I’m currently working at [Outside](https://outside.studio/)
+- 👯 I’m interested in **Software Engineering**
 
 
 
